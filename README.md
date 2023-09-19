@@ -1,5 +1,3 @@
-# node-api-test
-
 In order to run the Demo Blog:
 
 1. Clone the repo
