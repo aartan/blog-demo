@@ -1,0 +1,107 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Roboto';
+}
+
+a {
+  text-decoration: none;
+  color: #616161;
+}
+
+#header {
+  width: 600px;
+  margin: 20px auto;
+  text-align: right;
+  position: relative;
+}
+
+#header > span {
+  position: absolute;
+  left: 0;
+}
+
+#header > span > span {
+  text-align: left;
+  font-size: 12px;
+  display: block;
+}
+
+#header > span > span:last-child {
+  color: #9E9E9E;
+}
+
+#header a {
+  text-align: right;
+  color: #616161;
+  margin-left: 10px;
+}
+
+.post {
+  width: 600px;
+  margin: 100px auto;
+}
+
+.post .title {
+  font-size: 26px;
+  font-weight: bold;
+  line-height: 30px;
+}
+
+.post > .meta {
+  margin-top: 20px;
+  font-size: 15px;
+  color: #9E9E9E;
+}
+
+.post .meta .separator {
+  margin: 0 10px;
+}
+
+.post > .body, .post #comments {
+  border-top: 1px solid #EEEEEE;
+  margin-top: 20px;
+}
+
+.post .headline p, .post > .body p {
+  margin-top: 20px;
+  font-size: 15px;
+  line-height: 22px;
+}
+
+.post .continue {
+  margin-top: 20px;
+  display: inline-block;
+  border-bottom: 2px solid #03dac6;
+}
+
+.comment {
+  margin: 20px 0;
+}
+
+.comment > .meta {
+  font-size: 15px;
+  color: #9E9E9E;
+}
+
+ul {
+  padding-left: 30px;
+}
+
+ul li {
+  margin: 15px 0;
+}
+
+code, pre {
+  border: 1px solid #EEEEEE;
+  border-radius: 3px;
+  background-color: #FAFAFA;
+  padding: 5px 8px;
+  color: #212121;
+  font-size: 13px;
+  white-space: pre-wrap;
+}

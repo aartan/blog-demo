@@ -1,0 +1,163 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "title": "Champion's Victory",
+      "headline": "Local Team Wins Championship",
+      "body": "In an exciting final match, the local team won the championship. The players showed great teamwork and determination, earning them the title they've been striving for all season. The victory parade will be held next week, and fans are already planning to celebrate the triumph with their heroes. This win marks a turning point in the team's history and brings hope for more success in the future.",
+      "created_at": "2023-02-11",
+      "tags": ["Sports"],
+       "comments": [
+        {
+          "id": 1,
+          "created_at": "2023-02-13",
+          "author": "Fan 1",
+          "body": "Fantastic victory! I was cheering the whole time."
+        },
+        {
+          "id": 2,
+          "created_at": "2023-02-12",
+          "author": "Fan 2",
+          "body": "Such a thrilling match. Congratulations to the team!"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Tech Innovation 2023",
+      "headline": "New Breakthroughs in Artificial Intelligence",
+      "body": "This year has been monumental for advancements in artificial intelligence. From self-driving cars to personalized medicine, technology is reshaping the way we live and work. The latest AI models are more efficient and capable than ever, and businesses are leveraging them to create innovative solutions. With continued investment in research and development, the AI industry is poised for even greater success.",
+      "created_at": "2023-02-10",
+      "tags": ["Business", "Tech"],
+      "comments": [
+        {
+          "id": 1,
+          "created_at": "2023-02-14",
+          "author": "Tech Enthusiast",
+          "body": "AI is revolutionizing industries. Can't wait to see what's next!"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Economic Forecast",
+      "headline": "Economy Shows Strong Growth",
+      "body": "The latest reports indicate that the economy is on a positive trajectory, with strong growth in various sectors. Experts predict that this trend will continue into the next quarter, fueled by consumer confidence and business investment. Key industries, such as manufacturing and technology, are driving this growth, and government policies are supporting economic stability. Overall, the economic outlook is bright, offering opportunities for both businesses and individuals.",
+      "created_at": "2023-02-09",
+      "tags": ["Economy", "Business"],
+      "comments": [
+        {
+          "id": 1,
+          "created_at": "2023-02-12",
+          "author": "Economist",
+          "body": "Glad to hear about the growth. Hope it continues!"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Exploring the Cosmos",
+      "headline": "New Discoveries in Space Exploration",
+      "body": "Scientists have discovered new celestial bodies using advanced telescopes. This research has broadened our understanding of the universe and opened new doors for exploration. Recent missions to Mars and beyond have revealed exciting possibilities for human colonization and the search for extraterrestrial life. These groundbreaking achievements represent a new era in space exploration, sparking curiosity and inspiring future generations of scientists and astronomers.",
+      "created_at": "2023-02-08",
+      "tags": ["Science", "Space"],
+      "comments": [
+        {
+          "id": 1,
+          "created_at": "2023-02-13",
+          "author": "Astronomy Lover",
+          "body": "The universe never ceases to amaze me. Great article!"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Health & Wellness",
+      "headline": "Incorporating Mindfulness into Daily Life",
+      "body": "Mindfulness practices have become popular as a way to reduce stress and improve overall well-being. By focusing on the present moment and practicing non-judgmental awareness, individuals can enhance their emotional resilience and coping skills. Workshops and online courses are widely available, offering tools and techniques for integrating mindfulness into daily life. Whether through meditation, yoga, or mindful eating, these practices can make a meaningful difference in overall health and happiness.",
+      "created_at": "2023-02-07",
+      "tags": ["Health", "Wellness"],
+      "comments": [
+        {
+          "id": 1,
+          "created_at": "2023-02-11",
+          "author": "Yoga Practitioner",
+          "body": "Mindfulness has changed my life for the better."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Future of Renewable Energy",
+      "headline": "Investing in Sustainable Solutions",
+      "body": "As concerns about climate change and environmental sustainability continue to grow, the push for renewable energy sources has never been stronger. Wind, solar, and hydroelectric power are replacing fossil fuels in many areas, and innovative technologies are making these options more efficient and affordable. Governments, corporations, and individuals are recognizing the importance of investing in sustainable energy, and the industry is poised for significant growth in the coming years.",
+      "created_at": "2023-02-06",
+      "tags": ["Environment", "Tech", "Business"],
+      "comments": [
+        {
+          "id": 1,
+          "created_at": "2023-02-10",
+          "author": "Environmental Activist",
+          "body": "Sustainability is key. Great to see this focus on renewable energy!"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Artistic Revival",
+      "headline": "The Return of Classical Art Forms",
+      "body": "In a modern world filled with digital art and media, there has been a resurgence of interest in classical art forms. Paintings, sculptures, and traditional music are regaining popularity, reflecting a desire for connection with historical and cultural roots. Museums and galleries are hosting exhibitions, and schools are offering classes in classical techniques. This revival is not only a celebration of heritage but also an exploration of creativity and human expression.",
+      "created_at": "2023-02-05",
+      "tags": ["Art", "Culture"],
+      "comments": [
+        {
+          "id": 1,
+          "created_at": "2023-02-08",
+          "author": "Art Lover",
+          "body": "Classical art has a unique beauty. Happy to see its revival!"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Smart Cities of the Future",
+      "headline": "Urban Planning for Sustainability",
+      "body": "With increasing urbanization, smart city planning has become essential for creating sustainable and livable environments. Advanced technologies are being used to manage traffic, reduce pollution, and conserve energy. Intelligent design promotes community engagement, efficient transportation, and green living. By embracing these principles, cities can become more resilient, inclusive, and environmentally responsible.",
+      "created_at": "2023-02-04",
+      "tags": ["Tech", "Environment"],
+      "comments": [
+        {
+          "id": 1,
+          "created_at": "2023-02-06",
+          "author": "Urban Planner",
+          "body": "Smart planning is the future of urban living. Great insights!"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Culinary Adventures",
+      "headline": "Exploring Global Cuisine",
+      "body": "Food lovers are exploring the world through their taste buds, embracing diverse culinary traditions and flavors. Cooking classes, food festivals, and travel experiences offer opportunities to learn about different cultures and try new dishes. From spicy Thai curries to rich Italian pastas, the world of food is a delicious journey waiting to be savored. Join the adventure and discover the unique tastes and textures that connect us all.",
+      "created_at": "2023-02-03",
+      "tags": ["Food", "Culture"],
+      "comments": [
+        {
+          "id": 1,
+          "created_at": "2023-02-05",
+          "author": "Foodie",
+          "body": "Exploring cuisine is my favorite way to learn about cultures!"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Education in the Digital Age",
+      "headline": "Leveraging Technology for Learning",
+      "body": "Education is undergoing a transformation, with technology playing a central role in enhancing learning experiences. Online platforms, interactive tools, and personalized curricula are empowering students to learn at their own pace and in their preferred style. Schools and educators are embracing digital resources to foster collaboration, creativity, and critical thinking. The fusion of technology and education offers endless possibilities for growth and innovation, shaping the future of learning in a connected world.",
+      "created_at": "2023-02-02",
+      "tags": ["Education", "Tech"],
+      "comments": []
+    }
+  ]
+}
